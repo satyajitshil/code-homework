@@ -1,0 +1,6 @@
+a = int(input("Num 1:"))
+b = int(input("Num 2:"))
+c = int(input("Num 3:"))
+d = int(input("Num 4:"))
+print(a,b,c,d)
+print(d,a,b,c)
